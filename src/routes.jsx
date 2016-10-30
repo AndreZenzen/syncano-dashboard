@@ -116,7 +116,7 @@ export default (
       <Route
         name="instances"
         component={Instances}
-        path="/instances/"
+        path="/instances"
       />
 
       <Route
